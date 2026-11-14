@@ -47,8 +47,11 @@
 ### 📊 Estatísticas
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielDevWorks&show_icons=true&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDevWorks&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielDevWorks&theme=github_dark" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielDevWorks&theme=github_dark" alt="Linguagens mais usadas">
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=GabrielDevWorks&locale=pt_BR&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições">
 </p>
 
 ### 📫 Contato
